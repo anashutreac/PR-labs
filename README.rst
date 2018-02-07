@@ -1,1 +1,1 @@
-To open the project clone or dowload it from repository and rule it in PyCharm or other IDE
+To open the project clone or dowload it from repository 
