@@ -100,5 +100,10 @@ ENV/
 # mypy
 .mypy_cache/
 
-Lab_1/*
+
+*.idea/compiler.xml
+*.idea/misc.xml
+*.idea/modules.xml
+*.idea/workspace.xml
+*.idea/libraries
 
