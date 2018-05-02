@@ -72,7 +72,7 @@ server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 server_socket.bind(('127.0.0.1', 8080))
 
 
-# Start listening on socket, maximum number of queued connections - 10
+# Start listening on socket, maximum number of queued connections - 5
 server_socket.listen(5)
 print('Socket created successfully')
 

@@ -4,9 +4,10 @@ import socket
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Connect to the given `address` and `port`
-server_address = ('127.0.0.1', 8080)
+server_address = ('', 8080)
 print('Connecting to 127.0.0.1:8080')
 client_socket.connect(server_address)
+
 try:
     # Read input from the user (as string)
     while 1:

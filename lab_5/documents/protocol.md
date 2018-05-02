@@ -2,10 +2,10 @@
 
 **Formatul mesajelor**
 
-Comenzile de la client încep cu /
-Numele comenzii poate con?ine A-Za-z0-9_ De exemplu: /help
-Daca comanda accepta parametri, atunci dupa comanda urmeaza spa?iu si restul datelor. Exemplu: /hello John
-Daca serverul prime?te o comanda invalida - se raspunde cu un mesaj informativ.
+- Comenzile de la client încep cu /
+- Numele comenzii poate contine A-Za-z0-9_ De exemplu: /help
+- Daca comanda accepta parametri, atunci dupa comanda urmeaza spatiu si restul datelor. Exemplu: /hello John
+- Daca serverul primeste o comanda invalida - se raspunde cu un mesaj informativ.
 
 **Comenzile suportate de server**
 
